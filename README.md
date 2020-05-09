@@ -1,12 +1,9 @@
-## Web application is deployed at the following link:
+## Tableau Public link for Final Data Analysis:
 
-https://vpinnika.github.io/D3-challenge/.
+https://public.tableau.com/profile/venkat.pinnika1410#!/vizhome/Venkat-City-Bike-Analysis/FinalAnalysis-MainPage
 
 ## Images
 
 ![Image1](Images/Image-1.PNG)
 
-![Image2](Images/Image-2.PNG)
-
-![Image3](Images/Image-3.PNG)
 
